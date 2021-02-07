@@ -1,0 +1,139 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 428px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  font-weight: 400;
+  margin: 20px auto 0 42px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 90px auto 0 212px;
+  padding: 10px 25px 11px;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: -50px auto 0 713px;
+  padding: 10px 33px 11px 31px;
+}
+
+.u-section-1 .u-btn-3 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 76px auto 0 207px;
+  padding: 10px 14px 11px 13px;
+}
+
+.u-section-1 .u-btn-4 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: -50px auto 60px 713px;
+  padding: 10px 19px 11px 18px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 34px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    height: 49px;
+    margin-left: 112px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    width: 220px;
+    height: 50px;
+    margin-left: 613px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    width: 220px;
+    height: 50px;
+    margin-left: 107px;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-left: 613px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 26px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 104px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 397px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-left: 104px;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-left: 397px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 20px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 20px;
+    margin-left: 104px;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-top: 20px;
+    margin-left: 104px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 0.8125rem;
+    font-weight: 700;
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 60px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 26px;
+    margin-left: auto;
+    margin-bottom: 0;
+    width: auto;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-top: 26px;
+    margin-left: auto;
+    width: auto;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-top: 26px;
+    margin-bottom: 26px;
+    margin-left: auto;
+  }
+}
